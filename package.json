@@ -1,0 +1,25 @@
+{
+  "name": "node-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "dev": "nodemon src/app.ts --exec ts-node"
+  },
+  "author": "Abhi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.18",
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.5.0"
+  }
+}

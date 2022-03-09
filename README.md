@@ -1,7 +1,7 @@
 
 # Express Typescript SQL
 
-Use of express js with typescript and SQL.
+Use of express js with typescript and SQL
 
 
 ## Project Roadmap
